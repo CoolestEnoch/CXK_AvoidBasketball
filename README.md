@@ -1,5 +1,4 @@
-# CXK_AvoidBasketBall
-蔡徐坤躲篮球小游戏
+# 蔡徐坤躲篮球小游戏
 
 
 基于Visual Basic设计
