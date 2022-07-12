@@ -1,0 +1,32 @@
+﻿生成启动时间为 2022/7/12 12:58:04。
+项目“C:\Users\Coolest\Desktop\ustb_course\C++Study\cxkVsBasketball_rel2\cxkVsBasketball\SourceCode\VCProject2012\VCProject2012\VCProject2012.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在创建“Release\VCProject2012.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../Header /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Src\LessonX.cpp
+  LessonX.cpp
+..\..\Src\LessonX.cpp(299): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+..\..\Src\LessonX.cpp(303): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+..\..\Src\LessonX.cpp(369): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+..\..\Src\LessonX.cpp(377): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+..\..\Src\LessonX.cpp(391): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\Src\LessonX.cpp(393): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\Src\LessonX.cpp(395): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+ResourceCompile:
+  所有输出均为最新。
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\Bin\Game.exe" /INCREMENTAL:NO /NOLOGO Winmm.lib ..\..\Src\CommonClass_2010.Lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"Release\Game.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\Bin\Game.lib" /MACHINE:X86 Release\VCTemplate.res
+  Release\LessonX.obj
+  Release\Main.obj
+  Release\LinkedList.obj
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+CommonClass_2010.Lib(CommonClass.obj) : warning LNK4204: “C:\Users\Coolest\Desktop\ustb_course\C++Study\cxkVsBasketball_rel2\cxkVsBasketball\SourceCode\VCProject2012\VCProject2012\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+  VCProject2012.vcxproj -> C:\Users\Coolest\Desktop\ustb_course\C++Study\cxkVsBasketball_rel2\cxkVsBasketball\SourceCode\VCProject2012\VCProject2012\..\..\..\Bin\Game.exe
+FinalizeBuildStatus:
+  正在删除文件“Release\VCProject2012.unsuccessfulbuild”。
+  正在对“Release\VCProject2012.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\Coolest\Desktop\ustb_course\C++Study\cxkVsBasketball_rel2\cxkVsBasketball\SourceCode\VCProject2012\VCProject2012\VCProject2012.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.27
