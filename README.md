@@ -18,4 +18,4 @@ VB版建议去**任务管理器里结束进程**或者在IDE**里以调试模式
 
 
 # *建议去下载C++版本玩耍!!!!*
-(点我下载最新版本)[https://github.com/CoolestEnoch/CXK_AvoidBasketball/releases/latest]
+[点我下载最新版本](https://github.com/CoolestEnoch/CXK_AvoidBasketball/releases/latest)
